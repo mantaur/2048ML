@@ -1,6 +1,6 @@
 # 2048ML
 This is my hardcoded, multithreaded, neural net implementation in go, which teaches itself how to play the game 2048 genetically.  
-Actual 2048 game adaptation cred: https://github.com/andrewstuart/2048.git . 
+Actual 2048 game adaptation cred: https://github.com/andrewstuart/2048.go . 
 
 Haven't written any saving function/used any library, so when main() returns, the trained neural network dies.
 
